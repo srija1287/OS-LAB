@@ -15,5 +15,6 @@ b. Average Turnaround time = Total Turnaround Time / Number of process
 7: Stop the process
 
 
-OUTPUT OBTAINED:
-![Test Image 1](os.png)
+# OUTPUT OBTAINED:
+![os](https://user-images.githubusercontent.com/69143780/121365836-9d65d880-c956-11eb-957a-2abe3c72cc3f.png)
+
