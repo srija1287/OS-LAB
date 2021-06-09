@@ -1,7 +1,7 @@
-a)FCFS (First Come First Serve)
-Aim: Write a C program to implement the various process scheduling mechanisms such as FCFS
+# a)FCFS (First Come First Serve)
+# Aim: Write a C program to implement the various process scheduling mechanisms such as FCFS
 scheduling.
-Algorithm:
+# Algorithm:
 1: Start the process
 2: Accept the number of processes in the ready Queue
 3: For each process in the ready Q, assign the process id and accept the CPU burst time
